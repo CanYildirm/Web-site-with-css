@@ -1,0 +1,23 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+
+}
+li{
+    display: inline;
+    padding: 8px;
+    border-bottom: 2px solid;
+}
+li a{
+    list-style-type: none;
+    text-decoration: none;
+    color: black;
+}
+li a:hover{
+    color: white;
+    background-color: gray;
+}
+img{
+    width:400px;
+}
